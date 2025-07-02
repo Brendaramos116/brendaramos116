@@ -6,7 +6,7 @@ Trago uma bagagem diversa que combina **lógica, estrutura, análise crítica e 
 
 ---
 
-## 🌐 Sobre mim
+## 👩 Sobre mim
 
 - 🎓 **Formada em Análise e Desenvolvimento de Sistemas (IESB)**
 - 💼 Experiência em desenvolvimento de projetos com **HTML, CSS, JavaScript**
@@ -29,6 +29,7 @@ Trago uma bagagem diversa que combina **lógica, estrutura, análise crítica e 
 - **Versionamento:** Git e GitHub
 - **Idiomas:** Português (nativo), Inglês (fluente - leitura e escrita)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brendaramos116&show_icons=true&theme=radical)
 ---
 
 ## 🎓 Formação
@@ -62,6 +63,7 @@ Trago uma bagagem diversa que combina **lógica, estrutura, análise crítica e 
 - Versionamento com Git e GitHub
 - WordPress (início dos estudos)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brendaramos116&layout=compact&theme=radical)
 ---
 
 ## 🤝 Vamos conversar?
@@ -69,7 +71,7 @@ Trago uma bagagem diversa que combina **lógica, estrutura, análise crítica e 
 Estou aberta a oportunidades como **Desenvolvedora Front-End Júnior** e também interessada em projetos freelance ou colaborativos.  
 Se você procura alguém com **vontade de aprender**, **comprometimento** e uma **visão humana do desenvolvimento**, vamos conversar!
 
-📩 **brendaramos116@hotmail.com**  
+📩 [Email](brendaramos116@hotmail.com) <br>
 🔗 [LinkedIn](https://www.linkedin.com/in/brendaramos116)  
 📍 Distrito Federal - Brasil  
 
